@@ -1,0 +1,21 @@
+Question 1:
+A port is identified for each transport protocol and address combination by a 16-bit unsigned number, known as the port number.
+
+Question 2:
+A port number is a 16-bit unsigned integer, thus ranging from 0 to 65535. 
+For TCP, port number 0 is reserved and cannot be used, while for UDP, the source port is optional and a value of zero means no port.
+
+Question 3:
+16 bits
+
+Question 4:
+SMTP - 25
+HTTP - 80
+HTTPS - 443
+FTP - 20, 21
+TELNET - 23
+IMAP - 143
+RDP - 3389
+SSH - 22
+DNS - 53
+DHCP - 67, 68
