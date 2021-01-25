@@ -1,0 +1,82 @@
+Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+A.NS.FACEBOOK.COM
+B.NS.FACEBOOK.COM
+C.NS.FACEBOOK.COM
+D.NS.FACEBOOK.COMDates
+Registry Expiration: 2028-03-30 04:00:00 UTC
+Created: 1997-03-29 05:00:00 UTC
+
+Name: YOUTUBE.COM
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+NS1.GOOGLE.COM
+NS2.GOOGLE.COM
+NS3.GOOGLE.COM
+NS4.GOOGLE.COMDates
+Registry Expiration: 2022-02-15 05:13:12 UTC
+Created: 2005-02-15 05:13:12 UTC
+
+Name: EBAY.COM
+Registry Domain ID: 1959284_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+DNS1.P06.NSONE.NET
+DNS2.P06.NSONE.NET
+DNS3.P06.NSONE.NET
+DNS4.P06.NSONE.NET
+NS01.EBAYDNS.COM
+NS02.EBAYDNS.COM
+NS03.EBAYDNS.COM
+NS04.EBAYDNS.COMDates
+Registry Expiration: 2021-08-03 04:00:00 UTC
+Created: 1995-08-04 04:00:00 UTC
+
+Name: STEAM.COM
+Registry Domain ID: 1415740_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+NS.ARCTIC.ORG
+NS.STEAM.COM
+NS.TOASTER.NETDates
+Registry Expiration: 2023-07-12 04:00:00 UTC
+Created: 1994-07-13 04:00:00 UTC
+
+Name: TWITCH.COM
+Registry Domain ID: 271956_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+NS-1051.AWSDNS-03.ORG
+NS-2042.AWSDNS-63.CO.UK
+NS-400.AWSDNS-50.COM
+NS-668.AWSDNS-19.NETDates
+Registry Expiration: 2021-05-27 04:00:00 UTC
+Created: 1997-05-28 04:00:00 UTC

@@ -1,0 +1,14 @@
+C:\Users\Edward Philip>ping 134.122.47.164
+
+Pinging 134.122.47.164 with 32 bytes of data:
+Reply from 134.122.47.164: bytes=32 time=19ms TTL=56
+Reply from 134.122.47.164: bytes=32 time=18ms TTL=56
+Reply from 134.122.47.164: bytes=32 time=24ms TTL=56
+Reply from 134.122.47.164: bytes=32 time=20ms TTL=56
+
+Ping statistics for 134.122.47.164:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 18ms, Maximum = 24ms, Average = 20ms
+
+C:\Users\Edward Philip>
