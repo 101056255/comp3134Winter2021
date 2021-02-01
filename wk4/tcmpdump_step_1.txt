@@ -1,0 +1,9 @@
+21:32:35.418310 IP 134.122.47.164.ssh > cpe589630e09368-cm589630e09366.cpe.net.cable.rogers.com.50413: Flags [P.], seq 322332:322536, ack 181, win 501, length 204
+21:32:35.418365 IP 134.122.47.164.ssh > cpe589630e09368-cm589630e09366.cpe.net.cable.rogers.com.50413: Flags [P.], seq 322536:322740, ack 181, win 501, length 204
+21:32:35.418420 IP 134.122.47.164.ssh > cpe589630e09368-cm589630e09366.cpe.net.cable.rogers.com.50413: Flags [P.], seq 322740:322944, ack 181, win 501, length 204
+21:32:35.418466 IP cpe589630e09368-cm589630e09366.cpe.net.cable.rogers.com.50413 > 134.122.47.164.ssh: Flags [P.], seq 181:217, ack 277776, win 1551, length 36
+^C
+1600 packets captured
+1602 packets received by filter
+2 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C
