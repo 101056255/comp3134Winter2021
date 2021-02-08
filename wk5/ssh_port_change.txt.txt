@@ -1,0 +1,3 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/# service sshd restart
+
+$ ssh root@134.122.47.164 -p 2222
